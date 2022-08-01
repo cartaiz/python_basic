@@ -3,4 +3,7 @@
 Esto es un texto
 >>> type(texto)
 <class 'str'>
+>>> texto = "texto modificado"
+>>> print(texto)
+texto modificado
 >>>
