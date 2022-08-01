@@ -1,0 +1,6 @@
+>>> texto = "Esto es un texto"
+>>> print(texto)
+Esto es un texto
+>>> type(texto)
+<class 'str'>
+>>>
