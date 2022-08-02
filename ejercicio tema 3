@@ -1,0 +1,12 @@
+>>> nombre = "Nombre"
+>>> apellidos = ('Apellido1', 'Apellido2')
+>>> email = 'email@email.com'
+>>> telefono = '655456456'
+>>> edad = 30
+>>> casado = True
+>>> conHijos = True
+>>> amigos = ['amigo1', 'amigo2', 'amigo3']
+>>> peliculas = {'peli1': 'titulo1', 'peli2': 'titulo2'}
+>>> print(nombre, apellidos, edad, email, telefono, casado, conHijos, amigos, peliculas)
+Nombre ('Apellido1', 'Apellido2') 30 email@email.com 655456456 True True ['amigo1', 'amigo2', 'amigo3'] {'peli1': 'titulo1', 'peli2': 'titulo2'}
+>>>
